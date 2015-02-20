@@ -1,5 +1,5 @@
-// Arduino Bluetooth Communication
-// Daniel Dominguez
+/*Control 1 Led with Smartphone via Bluetooth*/
+/*Created by Daniel Dominguez @dominguezdaniel*/
 
 const int ledPin = 13;      // the pin that the LED is attached to
   byte serialA;
